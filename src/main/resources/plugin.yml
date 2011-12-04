@@ -3,6 +3,6 @@ main: mmo.Quest.MMOQuest
 version: 0.1
 website: http://forums.bukkit.org/threads/
 author: Rycochet <rycochet@rycochet.com>
-depend: [mmoCore]
+depend: [Spout,mmoCore]
 
 description: Open-ended questing with any type of quest or reward.

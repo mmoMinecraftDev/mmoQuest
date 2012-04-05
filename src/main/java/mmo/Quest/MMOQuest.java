@@ -20,7 +20,6 @@ import mmo.Core.MMOPlugin;
 import mmo.Core.util.EnumBitSet;
 
 public class MMOQuest extends MMOPlugin {
-
 	@Override
 	public EnumBitSet mmoSupport(EnumBitSet support) {
 		support.set(Support.MMO_DATABASE);
@@ -30,12 +29,10 @@ public class MMOQuest extends MMOPlugin {
 	@Override
 	public void onEnable() {
 		super.onEnable();
-
 	}
 
 	@Override
 	public void onDisable() {
 		super.onDisable();
-
 	}
 }

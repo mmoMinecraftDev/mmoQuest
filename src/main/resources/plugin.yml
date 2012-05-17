@@ -1,5 +1,5 @@
 name: mmoQuest
-version: ${releaseVersion} b${buildNumber}
+version: ${releaseVersion}.${buildNumber}
 description: Open-ended questing with any type of quest or reward.
 author: mmoMinecraftDev
 website: http://mmo.me.uk
